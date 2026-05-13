@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shopno Raajkonna
+
+This log tracks the cryptographic history and versioning for the song **Shopno Raajkonna** (shopno-raajkonna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T09:17:51.125513 | `v1` | `6389a02aac439aed60ea7cfaf05a77ad00ecd9b5ed93fecf27b96c456fbde710` | `c9eafea5c270041694563c06f3f76f0df1d1250f3b9c37215006ded7d07c45e3` | `2026-05-13_shopno-raajkonna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
